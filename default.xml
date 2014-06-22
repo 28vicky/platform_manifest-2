@@ -486,7 +486,10 @@
   
   <!-- Additional vendors -->
   <project path="vendor/samsung/u8500-common" name="TeamCanjica/android_vendor_samsung_u8500-common" revision="cm-11.0" remote="github" />
-
+  
+  <!-- Additional kernel -->
+  <project path="kernel/samsung/u8500" name="TeamCanjica/Samsung_STE_Kernel" revision="3.0.101" remote="github" />
+ 
   <!-- OMNISWITCH-->
   <project path="packages/apps/OmniSwitch" name="AICP/packages_apps_OmniSwitch" remote="aicp" revision="kitkat" />
 
